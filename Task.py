@@ -1,5 +1,5 @@
 def main():
-    message = input("Enter the message: ")
+    message = input("Enter the text: ")
     shift = int(input("Enter the shift value: "))
     
     # Encrypted message
